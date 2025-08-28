@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Shaheen Nayyar</title>
+    <title>Shaheen Nayyar - DevOps Engineer on Shaheen Nayyar</title>
     <link>https://portfolio.shaheen.homes/</link>
-    <description>Recent content on Shaheen Nayyar</description>
+    <description>Recent content in Shaheen Nayyar - DevOps Engineer on Shaheen Nayyar</description>
     <image>
       <title>Shaheen Nayyar</title>
       <url>https://portfolio.shaheen.homes/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,6 +11,42 @@
     </image>
     <generator>Hugo -- 0.148.2</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://portfolio.shaheen.homes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CI/CD Pipeline Automation: Streamlining Software Delivery</title>
+      <link>https://portfolio.shaheen.homes/posts/devops-cicd-pipeline-automation/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.shaheen.homes/posts/devops-cicd-pipeline-automation/</guid>
+      <description>Build robust CI/CD pipelines for automated software delivery</description>
+    </item>
+    <item>
+      <title>Kubernetes Container Orchestration: Scaling Applications</title>
+      <link>https://portfolio.shaheen.homes/posts/kubernetes-container-orchestration/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.shaheen.homes/posts/kubernetes-container-orchestration/</guid>
+      <description>Master Kubernetes for container orchestration and application scaling</description>
+    </item>
+    <item>
+      <title>Terraform Infrastructure as Code: Building Cloud Infrastructure</title>
+      <link>https://portfolio.shaheen.homes/posts/terraform-infrastructure-as-code/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.shaheen.homes/posts/terraform-infrastructure-as-code/</guid>
+      <description>Learn Terraform for managing cloud infrastructure as code</description>
+    </item>
+    <item>
+      <title>Ansible Automation: Mastering Infrastructure as Code</title>
+      <link>https://portfolio.shaheen.homes/posts/ansible-automation-mastery/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.shaheen.homes/posts/ansible-automation-mastery/</guid>
+      <description>Master Ansible automation for infrastructure management and configuration</description>
+    </item>
+    <item>
+      <title>Docker Containerization: A Complete Guide</title>
+      <link>https://portfolio.shaheen.homes/posts/docker-containerization-guide/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://portfolio.shaheen.homes/posts/docker-containerization-guide/</guid>
+      <description>Learn the fundamentals of Docker containerization and how to deploy applications efficiently</description>
+    </item>
   </channel>
 </rss>
